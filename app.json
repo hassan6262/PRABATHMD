@@ -1,24 +1,24 @@
 {
-  "name": "PRABATH-MD (2.1.3)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "name": "HÄSSÄN-MD (2.1.3)",
+  "description": "HÄSSÄN-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "hässän-md"],
   "success_url": "/",
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "212638782172.",
       "required": true
     },  
 
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "PRABATH-MD~vYNmzSrK#_1rgSs0tXnBFUkHtrZFKGBpDpNRHERlToxqyon4apMc",
       "required": false
     },  
 
 
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github authtoken here.",
+      "description": "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",
       "required": true
     }   
 },
